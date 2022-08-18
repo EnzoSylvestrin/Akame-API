@@ -1,6 +1,6 @@
 # Akame API
 
-Uma API desenvolvida para pegar informações dos persongens do anime Demon Slayer
+Uma API desenvolvida para pegar informações dos persongens do anime Akame ga kill
 
 ## Usando a API
 
